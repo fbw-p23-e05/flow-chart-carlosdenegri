@@ -14,3 +14,14 @@ https://drive.google.com/file/d/1dFnPNkyw5LfanDjIy-dj3Wgv9nQQgOLo/view?usp=shari
 
 Number 2. Exercise. It is a personal project in C called get_next_line
 https://drive.google.com/file/d/1BpxmApk4WBJEuyC85EcSDCRJtBQZO-Aj/view?usp=sharing
+
+
+Number 1
+![image](https://github.com/fbw-p23-e05/flow-chart-carlosdenegri/assets/139439435/3f63343a-3139-41b4-b636-bac9155623cb)
+
+
+
+
+
+Number 2
+![image](https://github.com/fbw-p23-e05/flow-chart-carlosdenegri/assets/139439435/75ea958e-06ae-44c0-86b6-01a1286c84f5)
