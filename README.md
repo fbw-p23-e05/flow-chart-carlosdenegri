@@ -8,3 +8,6 @@
 2. Think of another problem on your own. Create another flow chart for it as well.
 
 Once you've created the flow charts, add them to this `README` and push the changes.
+
+Number 2. Exercise. It is a personal project in C called get_next_line
+https://drive.google.com/file/d/1BpxmApk4WBJEuyC85EcSDCRJtBQZO-Aj/view?usp=sharing
